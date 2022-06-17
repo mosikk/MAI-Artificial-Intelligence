@@ -40,10 +40,10 @@
 Стиль - акварель.
 
 Изображение, сгенерированное по запросу "Могут ли дети изучать программирование стиль акварель":  
-<img src="https://github.com/MAILabs-AI-2022/ai_intro-mosikk/raw/main/pic1.jpg" width="512" height="512">
+<img src="https://github.com/mosikk/MAI-Artificial-Intelligence/blob/master/lab0/pic1.jpg" width="512" height="512">
 
 Изображение, сгенерированное по запросу "дети изучают программирование акварель":  
-<img src="https://github.com/MAILabs-AI-2022/ai_intro-mosikk/raw/main/pic2.jpg" width="512" height="512">
+<img src="https://github.com/mosikk/MAI-Artificial-Intelligence/blob/master/lab0/pic2.jpg" width="512" height="512">
 
 
 ## ИИ пишет рассказы 
